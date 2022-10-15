@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hammer System Test</string>
+    //Name of dish
+    <string name="titleDish1">Ветчина и грибы</string>
+    <string name="titleDish2">Баварские колбаски</string>
+    <string name="titleDish3">Нежный лосось</string>
+    <string name="titleDish4">Ветчина и грибы</string>
+    <string name="titleDish5">Баварские колбаски</string>
+    <string name="titleDish6">Нежный лосось</string>
+    //Description of dish
+    <string name="descriptionDish1">Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус</string>
+    <string name="descriptionDish2">Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус</string>
+    <string name="descriptionDish3">Лосось, томаты, оливки,соус песто,помидорки черри</string>
+    <string name="descriptionDish4">Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус</string>
+    <string name="descriptionDish5">Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус</string>
+    <string name="descriptionDish6">Лосось, томаты, оливки,соус песто,помидорки черри</string>
+    //Price
+    <string name="Price1">от 345 р</string>
+    <string name="Price2">от 345 р</string>
+    <string name="Price3">от 345 р</string>
+    <string name="Price4">от 345 р</string>
+    <string name="Price5">от 345 р</string>
+    <string name="Price6">от 345 р</string>
+    //List of City
+    <string name="moscow">Москва</string>
+    <string name="ekaterinburg">Екатерибург</string>
+    //Category Product
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="desserts">Десерты</string>
+    <string name="beverages">Напитки</string>
+</resources>
